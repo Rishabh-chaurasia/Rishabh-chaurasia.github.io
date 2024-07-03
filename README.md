@@ -1,86 +1,88 @@
-Rishabh Chaurasia Portfolio
-Overview
-This is a personal portfolio website for Rishabh Chaurasia, showcasing his skills, experience, and projects as a Frontend Developer. The website is built using HTML, CSS, and JavaScript, with various libraries and frameworks to enhance its functionality and aesthetics.
+# Rishabh Chaurasia Portfolio
 
-Table of Contents
-Features
-Technologies Used
-Installation
-Usage
-Structure
-Customization
-License
-Features
-Responsive Design: The website is fully responsive and works on all devices.
-Animated Typing Effect: Displays dynamic typing animation for various roles.
-Project Showcase: Highlights various projects with descriptions and links to GitHub repositories.
-Skill Progress Bars: Visual representation of skills and proficiency levels.
-Downloadable CV: Option to download Rishabh's CV.
-Contact Information: Easy access to LinkedIn and GitHub profiles.
-Technologies Used
-HTML5
-CSS3
-Bootstrap
-FontAwesome
-JavaScript
-Owl Carousel
-AOS (Animate On Scroll)
-Magnific Popup
-Google Fonts
-Installation
-To run this portfolio locally, follow these steps:
+Welcome to my personal portfolio website! This portfolio showcases my skills, projects, and experiences as an aspiring Frontend Developer. 
 
-Clone the repository:
-bash
-Copy code
-git clone https://github.com/Rishabh-chaurasia/portfolio.git
-Navigate to the project directory:
-bash
-Copy code
-cd portfolio
-Open index.html in your preferred web browser.
-Usage
-Navigation: Use the navbar to navigate to different sections of the portfolio.
-Projects: Click on project images or titles to view more details on GitHub.
-Download CV: Click on the "Download CV" button to download the resume.
-Contact: Use the LinkedIn and GitHub buttons to connect.
-Structure
-The project structure is as follows:
+## Table of Contents
 
-arduino
-Copy code
-portfolio/
-├── css/
-│   ├── aos.css
-│   ├── animate.css
-│   ├── flaticon.css
-│   ├── icomoon.css
-│   ├── ionicons.min.css
-│   ├── magnific-popup.css
-│   ├── open-iconic-bootstrap.min.css
-│   ├── owl.carousel.min.css
-│   ├── owl.theme.default.min.css
-│   ├── style.css
-├── images/
-│   ├── index.png
-│   ├── img.jpg
-│   ├── proj1.jpg
-│   ├── ...
-├── js/
-│   ├── aos.js
-│   ├── bootstrap.min.js
-│   ├── jquery.min.js
-│   ├── jquery.magnific-popup.min.js
-│   ├── jquery.waypoints.min.js
-│   ├── main.js
-│   ├── owl.carousel.min.js
-│   ├── popper.min.js
-│   ├── scrollax.min.js
-├── index.html
-└── README.md
-Customization
-To customize the portfolio, you can modify the following files:
+- [About](#about)
+- [Skills](#skills)
+- [Projects](#projects)
+- [Experience](#experience)
+- [Education](#education)
+- [Contact](#contact)
+- [How to Run](#how-to-run)
 
-HTML: Update index.html to change content, sections, and structure.
-CSS: Modify styles in css/style.css to change the appearance.
-JavaScript: Update js/main.js for any custom scripts or behavior.
+## About
+
+With a Bachelor's degree in Computer Applications from the University of Allahabad and comprehensive training in web development from Bolt IoT, I have cultivated a versatile skill set in HTML, CSS, JavaScript, React, and Python. My hands-on experience includes designing responsive e-commerce platforms, weather forecasting applications, movie finder websites, and IoT dashboards for industrial monitoring.
+
+## Skills
+
+- HTML: 90%
+- CSS: 85%
+- JavaScript: 75%
+- Search Engine Optimization (SEO): 80%
+- Responsive Web Design: 80%
+- React.js: 70%
+
+## Projects
+
+### [Movie Finder Website](https://github.com/Rishabh-chaurasia/Movie-Finder)
+Developed a website to search movies by name and display relevant information such as posters and details.
+
+### [Weather Forecast Website](https://github.com/Rishabh-chaurasia/Weather-Forecast)
+Built a website displaying historic weather information to help farmers maximize crop yield.
+
+### [E-commerce Website](https://github.com/Rishabh-chaurasia/E-commerce-Website)
+Developed a responsive web application for an online coffee store with dynamic content and interactive elements.
+
+### [IoT Dashboard](https://github.com/Rishabh-chaurasia/IoT-Dashboard)
+Created dashboards for industrial applications, including temperature and humidity monitoring systems for pharmaceutical companies.
+
+### [Hand Sign Language Detection](https://github.com/Rishabh-chaurasia/Hand-Sign-Language-Detection)
+Developed an innovative system to facilitate communication for individuals with hearing impairments using computer vision and machine learning.
+
+## Experience
+
+### Freelance Frontend Developer (2024-Present)
+**Upwork**
+- Creating engaging and responsive web applications using HTML, CSS, JavaScript, and React.js.
+- Collaborating with clients to deliver customized solutions that enhance user experience.
+
+### Intern (2023-2024)
+**Bolt IoT**
+- Built an e-commerce website from scratch using HTML, CSS, and JavaScript.
+- Developed a weather forecasting application to help farmers optimize crop yield.
+- Created a movie finder website for users to search and view movie details.
+- Worked on IoT dashboards for industrial applications.
+
+## Education
+
+### Bachelor of Computer Applications (2021-2024)
+**University of Allahabad**
+- Grade: First class distinction.
+
+### XII (CBSE) (2018-2020)
+**ATL School, Pratapgarh**
+- Grade: First class distinction.
+
+## Contact
+
+- **Email:** [chaurasiarishu15@gmail.com](mailto:chaurasiarishu15@gmail.com)
+- **LinkedIn:** [linkedin.com/in/rishabh-chaursia](https://www.linkedin.com/in/rishabh-chaursia/)
+- **GitHub:** [Rishabh-chaurasia](https://github.com/Rishabh-chaurasia)
+
+## How to Run
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/Rishabh-chaurasia/portfolio.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd portfolio
+    ```
+
+3. Open `index.html` in your web browser to view the portfolio.
+
